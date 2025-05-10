@@ -1,4 +1,4 @@
-# Job Cover Letter Generator
+# Job Search / Cover Letter Generator
 
 This is a Python program that allows you to generate professional cover letters from your resume and job descriptions using OpenAI's GPT API. It can also fetch relevant job postings using the Jooble API.
 
@@ -19,5 +19,5 @@ This is a Python program that allows you to generate professional cover letters 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/job-cover-letter-generator.git
-   cd job-cover-letter-generator
+   git clone https://github.com/ethanHomiski/JobSearch_CoverLetter_Generator.git
+   cd JobSearch_CoverLetter_Generator
